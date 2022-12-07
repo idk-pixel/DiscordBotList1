@@ -1,0 +1,24 @@
+{
+  "name": "discordbotlist1",
+  "version": "1.0.0",
+  "description": "Discord Bot List, but it is open source. It is currently being worked on :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idk-pixel/DiscordBotList1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idk-pixel/DiscordBotList1/issues"
+  },
+  "homepage": "https://github.com/idk-pixel/DiscordBotList1#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "express": "^4.18.2"
+  }
+}
